@@ -1,0 +1,28 @@
+body{
+    margin: 0; 
+    padding: 0;
+    
+}
+.game button{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin: 5px;
+   
+}
+
+.game{
+    display: flex;
+    flex-wrap: wrap;
+    height: 180px;
+    width: 180px;
+    border: 5px solid black;
+    background-color: darkblue;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.box{
+    
+}
